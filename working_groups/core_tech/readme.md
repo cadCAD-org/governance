@@ -1,4 +1,4 @@
-#Core Tech
+# Core Tech
 
 This working group is responsible for most of what exists today in cadCAD. Presently work in this category has been contributed by Josh, Markus, Danilo, Z, Andrew, Barlin, Tyler, Shruti, Ben, Jamsheed, Kris (and more).
 
