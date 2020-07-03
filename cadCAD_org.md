@@ -4,9 +4,17 @@ Purpose of this is to outline the org at a high level
 
 ## Mission
 
+To democratize access to complex system modeling and the proper methods used to create and understand them. 
+
 ## Vision
 
+To grow & assist an open source community of data scientists and system designers, and reduce our reliance on black box models from monied interests & skewed incentives.
+
 ## Values
+
+###“All models are wrong, but some are useful” - George E.P. Box
+
+cadCAD continues in the tradition of numpy, scipy and other tools for ‘jailbreaking’ scientific & mathematical expertise out of high cost tools & knowledge silos. But tools alone are insufficient to bring this shift about - what is also needed is community, education and experience in applying the right models to a given situation. Without tools like cadCAD, we remain at the mercy of those with the funds and capabilities to determine our futures for us. cadCAD puts that power back in our hands, and with that comes the mandate to use it responsibly.
 
 ## Overview of decision making processes
 
