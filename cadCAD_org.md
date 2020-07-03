@@ -1,6 +1,6 @@
 # cadCAD_org.md
 
-Purpose of this is to outline the org at a high level
+The purpose of this doc is to outline the cadCAD organization at a high level
 
 ## Mission
 
@@ -21,12 +21,22 @@ cadCAD continues in the tradition of NumPy, SciPy and other tools for ‘jailbre
 maintainer administrated rough consensus over contributors [details]
 
 ## Maintainers 
+(short bios including past contributions and current working group involvement)
 
-short bios including past contributions and current working group involvement, link to "maintainers" team in cadCAD_org
+Michael Zargham - The inventor of cadCAD, Z (as he is affectionately known) is involved with most aspects of cadCAD on an ongoing basis. He is an active participant in all working groups: Core Capabilities, Administrative, and Education/Outreach.
+
+Joshua Jodesty - The lead developer of cadCAD, Josh is involved with the Core Capabilities workgroup and is the primary maintainer of the cadCAD repo.
+
+Markus Koch - One of cadCAD's most experienced users, Markus has contributed heavily to the development of the tool to this point, and is involved with the Core Capabilities workgroup.
+
+See more in "maintainers" team in cadCAD_org <link>
 
 ## Contributors
+(list of working groups with summary descriptions of responsibilities and links to outputs, also links to working group folders, link to "contributors" team in cadCAD_org)
 
-list of working groups with summary descriptions of responsibilities and links to outputs, also links to working group folders, link to "contributors" team in cadCAD_org
+cadCAD contributors can be involved in one or multiple working groups, tasked with making cadCAD more effective by building on its People, Processes, and Tools.
+
+
 
 ## Community
 
