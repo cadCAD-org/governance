@@ -24,11 +24,11 @@ The decision making process of the cadCAD organization is one of maintainer admi
 ## Maintainers 
 (short bios including past contributions and current working group involvement)
 
-**Michael Zargham** - The inventor of cadCAD, Z (as he is affectionately known) is involved with most aspects of cadCAD on an ongoing basis. He is an active participant in all working groups: Maintainers, Administration, and Outreach & Education.
+**Michael Zargham** - The inventor of cadCAD, Z (as he is affectionately known) is involved with most aspects of cadCAD on an ongoing basis. He is an active participant in all working groups: Core Tech, Administration, and Outreach & Education.
 
-**Joshua Jodesty** - The lead developer of cadCAD, Josh is involved with the Maintainers workgroup and is the primary maintainer of the cadCAD repo.
+**Joshua Jodesty** - The lead developer of cadCAD, Josh is involved with the Core Tech workgroup and is the primary maintainer of the cadCAD repo.
 
-**Markus Koch** - One of cadCAD's most experienced users, Markus has contributed heavily to the development of the tool to this point, and is involved with the Maintainer workgroup.
+**Markus Koch** - One of cadCAD's most experienced users, Markus has contributed heavily to the development of the tool to this point, and is involved with the Core Tech workgroup.
 
 See more in "Maintainers" team in cadCAD_org <link>
 
@@ -37,7 +37,7 @@ See more in "Maintainers" team in cadCAD_org <link>
 
 cadCAD contributors can be involved in one or multiple working groups, tasked with making cadCAD more effective by building up its People, Processes, and Tools. The working groups that are currently active are listed below:
 
-* Maintainers <link>: this working group focuses on responsibilities such as the cadCAD development roadmap, new features, github issues & bug fixes, contribution guidelines, and tutorials & demos.
+* Core Tech <link>: this working group focuses on responsibilities such as the cadCAD development roadmap, new features, github issues & bug fixes, contribution guidelines, and tutorials & demos.
 * Administration <link>: this working group focuses on responsibilities such as maintaining the cadCAD DAO & FAST tokens, and infrastructure for our Discourse, Discord, and SourceCred instantiations.
 * Outreach & Education <link>: this working group focuses on responsibilities such as managing community & content on Twitter, Discourse, Discord, content production & articles, and the upcoming Dynamic Games Seminar.
 
@@ -46,5 +46,5 @@ cadCAD contributors can be involved in one or multiple working groups, tasked wi
 (call to action, overview of best wayts to get involved, link to contributor guidelines, etc; time and locaiton info for community calls.)
 (links to roadmap items and/or outstanding issues board, open bounties, etc.)
 
-We invite all contributions from our ever growing community. The best ways to get involved ...
+We invite all contributions from our growing community. Here is a link to our <Contributor Guidelines>. The best ways to get involved in cadCAD is to join in our <Telegram channel>, our <Discord channel>, and our <Community Forum>.  Introduce yourself, dip your toes into our <cadCAD Tutorial series>, and join in our <bi-weekly cadCAD community calls>!
 
