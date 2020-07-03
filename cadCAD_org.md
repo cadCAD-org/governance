@@ -46,5 +46,5 @@ cadCAD contributors can be involved in one or multiple working groups, tasked wi
 (call to action, overview of best wayts to get involved, link to contributor guidelines, etc; time and locaiton info for community calls.)
 (links to roadmap items and/or outstanding issues board, open bounties, etc.)
 
-We invite all contributions from our growing community. Here is a link to our <Contributor Guidelines>. The best ways to get involved in cadCAD is to join in our <Telegram channel>, our <Discord channel>, and our <Community Forum>.  Introduce yourself, dip your toes into our <cadCAD Tutorial series>, and join in our <bi-weekly cadCAD community calls>!
+We invite all contributions from our growing community. Here is a link to our [Contributor Guidelines]. The best ways to get involved in cadCAD is to join in our [Telegram channel], our [Discord channel], and our [Community Forum].  Introduce yourself, dip your toes into our [cadCAD Tutorial series], and participate in our [bi-weekly cadCAD community calls] to get to know us!
 
