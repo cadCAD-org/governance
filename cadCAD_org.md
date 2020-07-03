@@ -43,9 +43,8 @@ cadCAD contributors can be involved in one or multiple working groups, tasked wi
 
 
 ## Community
+(call to action, overview of best wayts to get involved, link to contributor guidelines, etc; time and locaiton info for community calls.)
+(links to roadmap items and/or outstanding issues board, open bounties, etc.)
 
-We invite all contributions from our ever growing community. The best ways to get involved 
+We invite all contributions from our ever growing community. The best ways to get involved ...
 
-call to action, overview of best wayts to get involved, link to contributor guidelines, etc; time and locaiton info for community calls.
-
-links to roadmap items and/or outstanding issues board, open bounties, etc.
