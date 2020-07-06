@@ -16,7 +16,8 @@ To grow & assist an open source community of data scientists and system designer
 
 cadCAD continues in the tradition of NumPy, SciPy and other tools for ‘jailbreaking’ scientific & mathematical expertise out of high cost tools & knowledge silos. But tools alone are insufficient to bring this shift about - what is also needed is community, education, experience and value alignment in applying the right models to a given situation. Without tools like cadCAD, we remain at the mercy of those with the funds and capabilities to determine our futures for us. cadCAD puts that power back in our hands, and with that comes the mandate to use it responsibly.
 
-![](/governance/images/Commons Stack - Page 52 (1).png)
+![pic 1](/governance/images/Commons Stack - Page 52 (1).png)
+![pic 2](/governance/images/Commons Stack - Page 52.png)
 
 ## Overview of decision making processes
 (maintainer administrated rough consensus over contributors [details])
