@@ -1,4 +1,7 @@
 # governance
+
+Note from Markus to integrate: https://en.wikipedia.org/wiki/Contributor_License_Agreement
+
 This repo contains the current state of and process for evolving the cadCAD_org.
 
 
