@@ -1,3 +1,5 @@
+How does this org work?
+
 # governance
 
 Note from Markus to integrate: https://en.wikipedia.org/wiki/Contributor_License_Agreement
