@@ -1,4 +1,4 @@
-References to other tools, processes, organizations or people that have informed this document.
-- community rule
-- sourcecred community
+The governance of cadCAD has been informed in part by the tools, processes, and organizations listed below.
+- CommunityRule: https://communityrule.info/
+- Sourcecred: https://sourcecred.io/
 - more
